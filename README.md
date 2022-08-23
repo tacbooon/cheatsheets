@@ -5,4 +5,5 @@
 ### Command Line Tools
 
 - [asdf](CommandLineTools/asdf.md)
+- [fd](CommandLineTools/fd.md)
 - [git](CommandLineTools/git.md)
